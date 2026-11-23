@@ -1,0 +1,6 @@
+field_name,definition,unit,availability,source_note
+metro_area,Metropolitan area label,text,15 named metro areas,Fortune June/July 2020 case report
+cumulative_revenue,Cumulative Fortune 500 revenue,USD billion,15 exact labels transcribed,See mixed-chart category data CSV
+map_dot,Map point indicating metro area with at least one Fortune 500 company,point,Exact count and coordinates not specified,Do not invent coordinates or count
+connector_curve,Curve linking label and geographic location,visual relation,15 label-to-location links,Does not encode migration or flow
+circle_size,Revenue magnitude cue,relative size,No explicit area-to-value formula,Exact revenue comes from numeric label
