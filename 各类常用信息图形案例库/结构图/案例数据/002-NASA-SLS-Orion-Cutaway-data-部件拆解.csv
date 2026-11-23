@@ -1,0 +1,9 @@
+component_id,component_name,subsystem,position_order,function,source
+C01,Orion crew module,Orion spacecraft,1,Carries crew during mission,NASA SLS Reference Guide
+C02,Orion service module,Orion spacecraft,2,Provides propulsion and spacecraft support,NASA SLS Reference Guide
+C03,Launch abort system,Orion spacecraft,3,Provides crew escape capability during launch,NASA SLS Reference Guide
+C04,Interim Cryogenic Propulsion Stage (ICPS),Upper stage,4,Provides in-space propulsion,NASA SLS Reference Guide
+C05,Core stage liquid hydrogen tank,Core stage,5,Stores liquid hydrogen propellant,NASA SLS Reference Guide
+C06,Core stage liquid oxygen tank,Core stage,6,Stores liquid oxygen propellant,NASA SLS Reference Guide
+C07,RS-25 engines,Core stage,7,Provide core-stage thrust,NASA SLS Reference Guide
+C08,Solid rocket boosters,Booster system,8,Provide additional thrust during ascent,NASA SLS Reference Guide
