@@ -1,15 +1,16 @@
-# 信息图形类型案例
+# 历史专题案例资料（早期目录）
 
-本目录按信息组织和表达方式归纳案例，和五类主分类互为补充，不取代主分类。
+本目录保留仓库早期按“混合型、文字/列表型、时间轴型”组织的专题资料。它与当前五类主分类及「各类常用信息图形案例库」存在交叉和重复，因此现阶段定位为**只读历史档案**，不再作为新增案例的默认入库位置。
 
-## 类型目录
-- [混合型信息图形（Mixed Charts）](./01-混合型信息图形（Mixed Charts）/README.md)：统计图形、地图、插画与文字叙事复合。
-- [文字型/列表型信息图形](./02-文字型-列表型信息图形（Informational / List Infographics）/README.md)：文字条目、编号、字符和列表组织。
-- [时间轴型信息图形（Timeline Infographics）](./03-时间轴型信息图形（Timeline Infographics）/README.md)：时间节点、区间、阶段与多行折返时间线。
+## 已有专题
 
-## 案例索引
-- Power Centers of the Fortune 500：混合型，地图为辅助模块。
-- Ageing in Hong Kong：混合型，地图、条形图和折线图共同叙事。
-- Illustrated Alphabet A–Z：字母表型主分类，文字/列表型辅助。
-- The history of CATS in China：编年型主分类，阶段分章时间线。
-- From Peter to Leo XIV：编年型主分类，多行折返时间轴。
+- [混合型信息图形（Mixed Charts）](./01-混合型信息图形（Mixed Charts）/README.md)
+- [文字型/列表型信息图形](./02-文字型-列表型信息图形（Informational / List Infographics）/README.md)
+- [时间轴型信息图形（Timeline Infographics）](./03-时间轴型信息图形（Timeline Infographics）/README.md)
+
+## 后续维护
+
+- 保留既有图片、工作簿和报告，不在本目录新建重复案例。
+- 正式案例以五类主分类为唯一归属。
+- 常用图形子类仅作交叉分析与索引，不重复制作原始二进制文件。
+- 历史目录中的内容若需迁移，先更新总索引、检查重复文件和内部链接，再执行迁移；不得直接删除。
