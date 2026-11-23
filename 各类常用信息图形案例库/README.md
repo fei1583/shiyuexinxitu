@@ -16,7 +16,8 @@
 
 ## 已归档案例
 - **Illustrated Alphabet A–Z**：文字型信息图及字母表型信息图专项案例。
-- **Family tree: a guide to the Chinese kinship system**：主分类为关系图，辅助分类为树状图。主报告：[关系图案例报告](./关系图/02-分析报告/001-Chinese-Kinship-System-关系图案例分析报告.md)；辅助报告：[树状图案例报告](./树状图/02-分析报告/001-Chinese-Kinship-System-树状图案例分析报告.md)。
+- **Family tree: a guide to the Chinese kinship system**：主类型为关系图，辅助类型为树状图。主报告：[关系图案例报告](./关系图/02-分析报告/001-Chinese-Kinship-System-关系图案例分析报告.md)；辅助报告：[树状图案例报告](./树状图/02-分析报告/001-Chinese-Kinship-System-树状图案例分析报告.md)。
+- **The history of CATS in China**：主类型为编年型信息图，辅助类型为时间轴图；以四阶段历史分章叙述，另含十二生肖传说专题。[时间轴图案例报告](./时间轴图/02-分析报告/001-The-history-of-CATS-in-China-时间轴图案例分析报告.md)。
 - **Ageing in Hong Kong**：混合型信息图，地图模块关联地图案例库。
 
 遇到复合型案例时注明主类型与辅助类型，并建立交叉索引，避免重复定义。
