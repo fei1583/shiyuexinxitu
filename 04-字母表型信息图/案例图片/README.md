@@ -1,3 +1,3 @@
-# 案例图片目录
+# 字母表型信息图案例图片
 
-本目录用于存放字母表型信息图原始图片。案例001的图片由用户自行上传；建议文件名：`001-Illustrated-Alphabet-AZ.webp`。上传完成后请在案例索引中补充文件链接。
+- 001-Illustrated-Alphabet-AZ.jpg
