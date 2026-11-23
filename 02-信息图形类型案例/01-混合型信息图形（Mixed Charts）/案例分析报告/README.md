@@ -2,6 +2,10 @@
 
 每个案例独立建立 Markdown 报告，推荐命名：案例名称-混合型信息图形（Mixed Charts）-案例分析报告.md。
 
+## 已收录
+- [001｜Power Centers of the Fortune 500](./001-Power-Centers-of-the-Fortune-500-案例分析报告.md)
+- [002｜Ageing in Hong Kong](./002-Ageing-in-Hong-Kong-案例分析报告.md)
+
 报告模板：
 1. 案例元信息：标题、作者/机构、发布日期、来源URL、访问日期、版权/许可。
 2. 画面结构：主要模块、阅读顺序、视觉层级。
