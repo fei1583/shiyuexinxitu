@@ -5,6 +5,8 @@
 ## 已收录
 - **001｜Power Centers of the Fortune 500**：美国都会区空间定位与累计营收圆点排名；主分类为混合型。[地图专项报告](./02-分析报告/001-Power-Centers-of-the-Fortune-500-地图案例分析报告.md)
 - **002｜Ageing in Hong Kong**：香港18区编号定位地图，与右侧条形清单联动；主分类为混合型。[地图专项报告](./02-分析报告/002-Ageing-in-Hong-Kong-地图案例分析报告.md)
+- **003｜Plan Showing the Ascertained Deaths from Cholera**：John Snow霍乱地图案例。
+- **004｜Visualizing Facebook Friends（好友地理分布）**：以世界地图和气泡标记呈现Facebook好友的地理分布；与关系图中的好友网络图区分归档。[分析报告](./02-分析报告/002-Visualizing-Facebook-Friends-地图案例分析报告.md)
 
 固定研究结构：01示例图、02分析报告、03类型学分类、04数据结构、05统计图形应用、06视觉编码、07信息框架、08叙事框架。
 ## 本类维护文档

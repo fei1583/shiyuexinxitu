@@ -1,10 +1,10 @@
-# 已归档与待识别原始图片
+# 已归档原始图片记录
 
-已识别并迁入正式分类目录的图片不再保留在本暂存目录。以下记录用于追踪本批上传素材的归档结果。
+本批上传的10张图片均已确认归属并迁入正式分类目录。以下记录保留原始文件名与正式归档路径的对应关系。
 
 | 原始序号 | 原始文件名 | 归档结果 |
 |---|---|---|
-| 001 | 016d5602c3778d90bef9e2370e5a0a05~tplv-be4g95zd3a-448x448.jpg | **待识别**：世界地图气泡图，暂留本目录，尚未确认对应案例 |
+| 001 | 016d5602c3778d90bef9e2370e5a0a05~tplv-be4g95zd3a-448x448.jpg | [地图/004-Visualizing-Facebook-Friends-Geographic-Distribution.jpg](../../各类常用信息图形案例库/地图/01-示例图/004-Visualizing-Facebook-Friends-Geographic-Distribution.jpg) |
 | 002 | 21c617a798efce7888ffe133004ba076~tplv-be4g95zd3a-448x448.jpg | [关系图/002-Visualizing-Facebook-Friends.jpg](../../各类常用信息图形案例库/关系图/01-示例图/002-Visualizing-Facebook-Friends.jpg) |
 | 003 | 36c2bdd27ce2a649aa7a8bd886b9b243~tplv-be4g95zd3a-448x448.jpg | [对比图/003-Comparing-Population-Pyramids.jpg](../../各类常用信息图形案例库/对比图/01-示例图/003-Comparing-Population-Pyramids.jpg) |
 | 004 | 3cffd0b8935f9137cbc2e5d9671c0118~tplv-be4g95zd3a-448x448.jpg | [对比图/004-China-India-Population-Pyramid-2017.jpg](../../各类常用信息图形案例库/对比图/01-示例图/004-China-India-Population-Pyramid-2017.jpg) |
@@ -15,4 +15,4 @@
 | 009 | aff824b925ac2d9f-8c24dbdad195002f~tplv-be4g95zd3a-896x896.jpg | [词云图/002-Context-Preserving-Dynamic-Word-Cloud.jpg](../../各类常用信息图形案例库/词云图/01-示例图/002-Context-Preserving-Dynamic-Word-Cloud.jpg) |
 | 010 | b6b5958e6a5110d554c354412bac16e9~tplv-be4g95zd3a-448x448.jpg | [结构图/002-NASA-SLS-Orion-Cutaway.jpg](../../各类常用信息图形案例库/结构图/01-示例图/002-NASA-SLS-Orion-Cutaway.jpg) |
 
-说明：本批已确认9张图片的主分类并迁移。比较图与词云图中新增的图片按图面内容命名，未擅自将其关联到内容并不完全相同的既有分析报告。Excel 工作簿未作任何修改。
+说明：001为好友地理分布地图；002为好友关系网络图。两者主题相关但表达类型不同，因此分别归入地图与关系图。

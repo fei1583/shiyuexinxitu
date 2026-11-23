@@ -1,6 +1,4 @@
 # 地图案例数据
 
-- 001-Power Centers of the Fortune 500：地图模块使用混合型案例001工作簿。
-- 002-Ageing in Hong Kong：002-Ageing-in-Hong-Kong-data.xlsx。
-
-复合案例的主分类数据以混合型目录为准；此处提供地图专项交叉索引。
+- `004-Visualizing-Facebook-Friends-Geographic-Distribution-data.xlsx`：Facebook好友地理分布地图的数据拆解工作簿。
+- 混合型地图辅助案例的数据工作簿仍以各自主分类目录中的正式文件为准。
