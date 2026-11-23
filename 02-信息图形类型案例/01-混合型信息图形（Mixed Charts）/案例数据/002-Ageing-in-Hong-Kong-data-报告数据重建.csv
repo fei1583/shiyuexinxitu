@@ -1,0 +1,23 @@
+record_type,year,geographic_group,district,metric,value,unit,source_or_note
+overall_age,2026,Hong Kong,,population_age_65_plus,1975220,persons,Excludes foreign domestic helpers
+overall_age,2026,Hong Kong,,share_age_65_plus,26,percent,Infographic label
+overall_age,2026,Hong Kong,,population_under_65,5621780,persons,Infographic label
+overall_age,2026,Hong Kong,,share_under_65,74,percent,Infographic label
+district_age,2025,Hong Kong Island,Eastern,population_age_65_plus,136300,persons,Case report transcription
+district_age,2025,Hong Kong Island,Southern,population_age_65_plus,61800,persons,Case report transcription
+district_age,2025,Hong Kong Island,Central / Western,population_age_65_plus,48900,persons,Case report transcription
+district_age,2025,Hong Kong Island,Wan Chai,population_age_65_plus,37300,persons,Case report transcription
+district_age,2025,Kowloon,Kwun Tong,population_age_65_plus,165500,persons,Case report transcription
+district_age,2025,Kowloon,Wong Tai Sin,population_age_65_plus,108000,persons,Case report transcription
+district_age,2025,Kowloon,Sham Shui Po,population_age_65_plus,97800,persons,Case report transcription
+district_age,2025,Kowloon,Kowloon City,population_age_65_plus,93800,persons,Case report transcription
+district_age,2025,Kowloon,Yau Tsim Mong,population_age_65_plus,60200,persons,Case report transcription
+district_age,2025,New Territories,Sha Tin,population_age_65_plus,167400,persons,Case report transcription
+district_age,2025,New Territories,Yuen Long,population_age_65_plus,132800,persons,Case report transcription
+district_age,2025,New Territories,Tuen Mun,population_age_65_plus,126000,persons,Case report transcription
+district_age,2025,New Territories,Kwai Tsing,population_age_65_plus,122800,persons,Case report transcription
+district_age,2025,New Territories,Sai Kung,population_age_65_plus,101400,persons,Case report transcription
+district_age,2025,New Territories,Tai Po,population_age_65_plus,77900,persons,Case report transcription
+district_age,2025,New Territories,North,population_age_65_plus,75100,persons,Case report transcription
+district_age,2025,New Territories,Tsuen Wan,population_age_65_plus,66400,persons,Case report transcription
+district_age,2025,New Territories,Islands,population_age_65_plus,34100,persons,Case report transcription
