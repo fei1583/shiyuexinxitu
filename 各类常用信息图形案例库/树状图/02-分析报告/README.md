@@ -1,7 +1,4 @@
-# 树状图｜案例分析报告目录
+# 树状图案例分析报告
 
-本目录按作品独立保存分析报告。报告区分已归档素材案例与基于公开来源建立的研究案例；后者的图片/Excel仍需手动归档后复核，不计为已完成素材案例。
-
-- [001｜Family tree: a guide to the Chinese kinship system](./001-Chinese-Kinship-System-树状图案例分析报告.md) — 树状布局辅助案例；已归档原图与工作簿
-
-每个报告需包含原始来源、图形结构、数据字段、统计图形应用、视觉编码、信息框架、叙事路径和证据限制。
+- [001｜Family tree: a guide to the Chinese kinship system](./001-Chinese-Kinship-System-树状图案例分析报告.md)
+- [002｜The Hillis Plot / Tree of Life](./002-Hillis-Tree-of-Life-树状图案例分析报告.md)

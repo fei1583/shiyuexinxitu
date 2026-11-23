@@ -1,7 +1,4 @@
-# 对比图｜案例分析报告目录
+# 对比图案例分析报告
 
-本目录按作品独立保存分析报告。报告区分已归档素材案例与基于公开来源建立的研究案例；后者的图片/Excel仍需手动归档后复核，不计为已完成素材案例。
-
-当前没有已确认的独立案例报告。
-
-每个报告需包含原始来源、图形结构、数据字段、统计图形应用、视觉编码、信息框架、叙事路径和证据限制。
+- [001｜China Population Pyramid 2023 Compared With India](./001-China-India-Population-Pyramid-对比图案例分析报告.md)
+- [002｜Compare Population Pyramids of Any Two Countries](./002-Population-Pyramids-Compare-Countries-对比图案例分析报告.md)
