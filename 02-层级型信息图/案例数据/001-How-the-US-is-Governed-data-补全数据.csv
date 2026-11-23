@@ -1,0 +1,4 @@
+record_id,branch_name,constitutional_basis,core_members,primary_function,checks_on_other_branches,source,verification_note
+B01,Legislative,Article I,House of Representatives;Senate,Makes federal laws,May impeach and remove executive and federal judges;Senate confirms appointments and ratifies treaties,US Constitution;Congress.gov,Core branch role verified
+B02,Executive,Article II,President;Vice President;Cabinet and executive departments,Executes and enforces federal laws,President nominates judges and officials subject to Senate confirmation;may veto legislation,US Constitution;White House,Core branch role verified
+B03,Judicial,Article III,Supreme Court and lower federal courts,Interprets laws and decides cases,Judicial review;judges may be impeached and removed by Congress,US Constitution;US Courts,Core branch role verified
