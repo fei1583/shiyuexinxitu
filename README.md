@@ -8,6 +8,7 @@
 
 ## 最新案例
 - **Illustrated Alphabet A–Z**：主类型为字母表型信息图，同时归入常用案例库的文字型信息图。分析报告：[字母表案例报告](./04-字母表型信息图/案例分析报告/001-Illustrated-Alphabet-AZ-案例分析报告.md)。
+- **Family tree: a guide to the Chinese kinship system**：主类型为关系图，辅助类型为树状图。分析报告：[关系图案例报告](./各类常用信息图形案例库/关系图/02-分析报告/001-Chinese-Kinship-System-关系图案例分析报告.md)。
 - **Ageing in Hong Kong（2026-07-16）**：主类型归入混合型信息图形；地图模块同时纳入地图案例库。分析报告：[混合型案例报告](./02-信息图形类型案例/01-混合型信息图形（Mixed Charts）/案例分析报告/002-Ageing-in-Hong-Kong-案例分析报告.md)。
 
 说明文档采用案例驱动更新。尚未提供案例图的类型定义属于工作框架；收到案例后以图像证据持续修订。
