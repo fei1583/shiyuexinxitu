@@ -1,0 +1,7 @@
+record_type,field_name,definition,value_or_schema,source,verification_note
+study_scope,taxon_count,Number of taxa represented,Approximately 3000 taxa,David Hillis et al. Tree of Life visualization,Scope description only; verify exact count against selected poster/version
+method,sequence_basis,Data basis,Small-subunit ribosomal RNA sequence analysis,Published Tree of Life visualization,Do not infer species-level sequence values
+node,taxon_id,Unique taxon identifier,Source-defined identifier,Original source data,Not recoverable from the low-resolution poster alone
+node,taxon_label,Displayed taxon name,Original scientific name,Original source data,Transcribe only from legible source
+edge,parent_taxon_id,Parent node identifier,Source-defined identifier,Original source data,Requires original tree data
+edge,branch_length,Length of phylogenetic branch,Numeric value plus unit/meaning,Original method documentation,Do not assume branch length represents elapsed time
