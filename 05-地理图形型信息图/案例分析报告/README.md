@@ -1,3 +1,4 @@
-# 案例分析报告
+# 地理图形型案例分析报告
 
-每个案例单独建立「案例名称-信息图形案例分析报告.md」。建议使用统一分析模板，完成来源核验后再归纳结论。
+- [001｜Plan Showing the Ascertained Deaths from Cholera](./001-John-Snow-Cholera-地理图形型信息图案例分析报告.md)
+- [002｜Ageing in Hong Kong](./002-Ageing-in-Hong-Kong-地理图形案例分析报告.md)
