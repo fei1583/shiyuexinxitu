@@ -1,8 +1,3 @@
-# 关系图分析报告
+# 关系图案例分析报告
 
-文件命名建议：案例名称-关系图-案例分析报告.md。
-
-## 已收录
-- [001｜Chinese Kinship System](./001-Chinese-Kinship-System-关系图案例分析报告.md)：粤语亲属称谓关系网络图，主分类。
-
-报告记录案例来源、日期、作者、关系拓扑、数据结构、视觉编码、信息框架、叙事路径及证据边界。
+- [001｜Family tree: a guide to the Chinese kinship system](./001-Chinese-Kinship-System-关系图案例分析报告.md)：本人及配偶为中心的粤语亲属称谓网络，辅助分类为树状图。
