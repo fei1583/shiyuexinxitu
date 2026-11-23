@@ -1,0 +1,5 @@
+node_id,node_order,node_label,node_type,actor,condition,source_reference,confidence,verification_status
+N01,1,Start,Start,,,Original archived flowchart,Medium,Start label to verify against original image
+N02,,Application or request step,Process,Requesting authority,,Original archived flowchart,Low,Placeholder category only; transcribe exact wording from image
+N03,,Decision point,Decision,,Condition branch,Original archived flowchart,Low,Placeholder category only; exact decision text and outgoing branches must be read from image
+N04,,Outcome,Outcome,,Approved or refused path,Original archived flowchart,Low,Placeholder category only; do not treat as legal advice
