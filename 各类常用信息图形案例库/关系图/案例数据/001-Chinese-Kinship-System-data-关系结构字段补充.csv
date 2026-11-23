@@ -1,0 +1,10 @@
+record_type,record_id,field_name,description,example_or_allowed_values,source_note
+node,N001,role_label,Person or reference role represented in diagram,YOU;YOUR SPOUSE;parent;grandparent;child,SCMP case analysis
+node,N002,generation_level,Vertical generation band,ancestor;grandparent;parent;same generation;self;child;grandchild,Seven levels identified in tree analysis
+edge,E001,source_node_id,Starting role in kinship relation,Node identifier,Keep one relation per row
+edge,E002,target_node_id,Related role,Node identifier,Keep one relation per row
+edge,E003,relation_type,Kinship relation,consanguineal;marital;affinal;collateral,Transcribe exact relationship from source
+edge,E004,lineage_side,Family branch,paternal;maternal;central_or_shared,Case report describes paternal and maternal branches
+term,T001,term_english,English relationship label,Original source text,47 term records reported in workbook
+term,T002,term_chinese,Cantonese Chinese kinship term,Traditional Chinese characters,Verify against source image; two in-law mappings flagged for review
+term,T003,romanization,Cantonese pronunciation,Original chart romanization,Do not normalize without dialect source
