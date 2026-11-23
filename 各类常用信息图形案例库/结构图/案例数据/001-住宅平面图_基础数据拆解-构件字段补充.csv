@@ -1,0 +1,9 @@
+record_id,space_or_component,component_type,level_or_zone,adjacent_space,dimension_value,dimension_unit,area_value,area_unit,door_window_type,source_label,verification_status
+R001,Living room,Room,Interior,,,,,,,,Needs transcription from archived floor-plan image
+R002,Kitchen,Room,Interior,,,,,,,,Needs transcription from archived floor-plan image
+R003,Bedroom,Room,Interior,,,,,,,,Needs transcription from archived floor-plan image
+R004,Bathroom,Room,Interior,,,,,,,,Needs transcription from archived floor-plan image
+C001,Wall,Structural element,Interior boundary,,,,,,,,Measure only from dimension labels or source drawing
+C002,Door,Opening,Interior boundary,,,,,,,,Record swing direction only when shown
+C003,Window,Opening,Exterior boundary,,,,,,,,Record width/position only when shown
+C004,Dimension line,Annotation,Drawing layer,,,,,,,,Preserve original dimension text and unit
