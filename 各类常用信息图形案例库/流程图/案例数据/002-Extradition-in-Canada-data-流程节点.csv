@@ -1,0 +1,10 @@
+stage_id,stage_order,stage_name,node_id,node_order,node_label,node_type,responsible_actor,condition_or_outcome,source
+S1,1,Authority to Proceed,S1-N1,1,Request for extradition,Process,Requesting state,Formal extradition request begins the process,Department of Justice Canada official extradition overview
+S1,1,Authority to Proceed,S1-N2,2,Provisional arrest,Process,Canadian authorities,May be sought where urgent arrest is required,Department of Justice Canada official extradition overview
+S1,1,Authority to Proceed,S1-N3,3,Authority to Proceed issued,Decision,Minister of Justice,Proceed only when statutory requirements are met,Department of Justice Canada official extradition overview
+S2,2,Judicial,S2-N1,1,Extradition hearing,Process,Superior court judge,Judge assesses evidence and legal requirements,Department of Justice Canada official extradition overview
+S2,2,Judicial,S2-N2,2,Committal for surrender,Decision,Judge,If legal test met person is committed for surrender; otherwise discharged,Department of Justice Canada official extradition overview
+S2,2,Judicial,S2-N3,3,Appeal or judicial review,Review,Courts,Available review routes depend on decision and applicable law,Department of Justice Canada official extradition overview
+S3,3,Ministerial,S3-N1,1,Surrender decision,Decision,Minister of Justice,Minister decides whether to surrender the person,Department of Justice Canada official extradition overview
+S3,3,Ministerial,S3-N2,2,Judicial review,Review,Courts,Ministerial decision may be judicially reviewed,Department of Justice Canada official extradition overview
+S3,3,Ministerial,S3-N3,3,Final surrender or refusal,Outcome,Canadian authorities,Outcome follows final decision and any available review,Department of Justice Canada official extradition overview
