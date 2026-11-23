@@ -1,0 +1,12 @@
+record_type,field_name,definition,unit_or_type,source,availability
+study_metadata,publication_year,2021,year,Sarcar et al. ASSETS 2021,Verified in case report
+study_metadata,study_participants,7,participants,Sarcar et al. ASSETS 2021,Verified in case report
+study_metadata,target_users,Deaf and hard-of-hearing participants,text,Sarcar et al. ASSETS 2021,Verified in case report
+system_entity,speaker_id,Unique meeting participant identifier,string,Paper method description,Schema field
+utterance,utterance_id,Unique spoken segment identifier,string,Paper method description,Schema field
+utterance,start_time,Start timestamp of utterance,seconds,Paper method description,Schema field
+utterance,end_time,End timestamp of utterance,seconds,Paper method description,Schema field
+token,token_text,Recognized word or phrase,string,Paper method description,Schema field
+token,token_weight,Visual importance assigned to token,numeric,Paper method description,Requires original transcript/system output
+cloud,cloud_owner_speaker_id,Speaker represented by an individual word cloud,string,Paper method description,Schema field
+cloud,update_window,Time window used to refresh cloud,seconds,Paper method description,Requires exact system configuration
