@@ -1,7 +1,4 @@
-# 案例图片归档说明
+# 混合型信息图形案例图片
 
-案例 002 原图由用户于 2026-11-23 随案例资料提供，原始文件名为 ageing.webp，画面尺寸为1207 × 2048像素。
-
-原图应归档于本目录，建议文件名：002-Ageing-in-Hong-Kong.webp。当前仓库提交已建立对应分析报告和分类链接，但二进制原图尚未成功写入 GitHub；请勿将本说明误认为原图文件已经上传。
-
-关联数据工作簿：ageing_in_hong_kong_data.xlsx（当前会话提供）。
+- 001-Power-Centers-of-the-Fortune-500.jpg
+- 002-Ageing-in-Hong-Kong.jpg
