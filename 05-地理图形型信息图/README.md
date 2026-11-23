@@ -11,3 +11,11 @@
 - 《World Languages Map of the 23 Most Spoken Native Tongues》— South China Morning Post，见[地图案例索引](https://infographicsite.com/infographic-examples/)，仍需追溯SCMP原始高清图。
 
 候选的编号、原图上传状态及完整来源见[补充清单](../案例补充计划与来源清单.md)。
+
+## 强制研究文档
+- [地理图形型信息图概念及说明.md](./地理图形型信息图概念及说明.md)：本类别持续更新的概念及说明总文档。
+- [案例索引](./案例索引.md)：逐案登记原图、工作簿、分类及报告。
+- `案例分析报告/`：每个独立案例一份分析报告，不合并、不以总文档代替。
+- [案例分析报告统一模板](../案例分析报告模板.md)。
+
+新增案例后必须同步更新概念总文档、案例索引、README及独立分析报告。
