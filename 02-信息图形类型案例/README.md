@@ -1,13 +1,15 @@
-# 02 信息图形类型案例
+# 信息图形类型案例
 
-本目录保存具体类型的说明文档、案例图片和逐例分析报告。说明文档会随着案例积累持续更新。当前先建立三类：
+本目录按信息组织和表达方式归纳案例，和五类主分类互为补充，不取代主分类。
 
-- [混合型信息图形（Mixed Charts）](./01-混合型信息图形（Mixed Charts）/)
-- [文字型/列表型信息图形（Informational / List Infographics）](./02-文字型-列表型信息图形（Informational / List Infographics）/)
-- [时间轴型信息图形（Timeline Infographics）](./03-时间轴型信息图形（Timeline Infographics）/)
+## 类型目录
+- [混合型信息图形（Mixed Charts）](./01-混合型信息图形（Mixed Charts）/README.md)：统计图形、地图、插画与文字叙事复合。
+- [文字型/列表型信息图形](./02-文字型-列表型信息图形（Informational / List Infographics）/README.md)：文字条目、编号、字符和列表组织。
+- [时间轴型信息图形（Timeline Infographics）](./03-时间轴型信息图形（Timeline Infographics）/README.md)：时间节点、区间、阶段与多行折返时间线。
 
-## 与数据逻辑目录的关系
-[01-信息图形数据逻辑](../01-信息图形数据逻辑/README.md) 保存五类宏观数据组织逻辑的理论定义，不保存图片；本目录保存具体案例和基于案例的观察。两者通过相对路径互链。
-
-## 案例图提交与分析约定
-收到案例图后，先确认其来源与使用许可，再建立案例分析报告；在报告中描述可观察证据，区分数据事实、设计解释和推测；最后回写本类说明文档与相关数据逻辑文档。
+## 案例索引
+- Power Centers of the Fortune 500：混合型，地图为辅助模块。
+- Ageing in Hong Kong：混合型，地图、条形图和折线图共同叙事。
+- Illustrated Alphabet A–Z：字母表型主分类，文字/列表型辅助。
+- The history of CATS in China：编年型主分类，阶段分章时间线。
+- From Peter to Leo XIV：编年型主分类，多行折返时间轴。
