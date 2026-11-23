@@ -1,0 +1,4 @@
+record_type,record_id,city_name,latitude,longitude,city_pair_id,connection_count,arc_geometry,source,verification_note
+Map method,M01,,,,,,Great-circle arcs between city locations,Paul Butler;Facebook Engineering,Describes map construction method; not raw individual friend locations
+Geographic node,NODE_PENDING,,,,,,,Paul Butler;Facebook Engineering,Add only locations explicitly verified from source graphic or accompanying data
+Geographic connection,EDGE_PENDING,,,,,,,Paul Butler;Facebook Engineering,Do not infer migration routes or fabricate counts from line brightness
