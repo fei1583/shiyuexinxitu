@@ -1,0 +1,13 @@
+record_type,field_name,definition,unit_or_type,source,availability
+paper_metadata,publication_year,2010,year,Cui et al. IEEE PacificVis,Verified
+document,document_id,Unique source document,string,Paper method,Schema field
+time_slice,time_point,Temporal segment represented by a word cloud,date_or_index,Paper method,Schema field
+term,keyword,Keyword displayed in cloud,string,Paper method,Schema field
+term,importance_weight,Keyword importance used for visual prominence,numeric,Paper method,Must obtain source corpus/model output
+term,topic_group,Semantic topic or cluster,string,Paper method,Schema field
+layout,x_position,Horizontal position of keyword,numeric,Paper method,Need source figure/layout output
+layout,y_position,Vertical position of keyword,numeric,Paper method,Need source figure/layout output
+layout,word_width,Rendered word width,pixels,Paper method,Need source figure/layout output
+layout,word_height,Rendered word height,pixels,Paper method,Need source figure/layout output
+transition,semantic_similarity,Similarity between terms across adjacent time slices,numeric,Paper method,Need source corpus/model output
+transition,position_displacement,Movement of term between adjacent clouds,pixels,Paper method,Need source layout output
