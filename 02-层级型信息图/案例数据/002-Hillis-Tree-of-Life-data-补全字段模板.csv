@@ -1,0 +1,4 @@
+record_type,record_id,taxon_label,parent_taxon_id,branch_id,terminal_or_internal,sequence_source,branch_length,branch_length_unit,source_figure,confidence,notes
+Dataset metadata,META01,,,,,,,,"Hillis Tree of Life",High,"Published tree based on approximately 3,000 taxa using small-subunit rRNA sequence analysis; this row documents scope, not a species-level transcription"
+Taxon record,TAXON_PENDING,,,,,,,,,Pending,"Populate each taxon only from the source PDF or accompanying data; do not infer missing labels"
+Branch record,BRANCH_PENDING,,,,,,,,,Pending,"Branch lengths require the original figure legend or source method; do not assume they encode time"
