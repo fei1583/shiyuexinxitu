@@ -1,0 +1,4 @@
+record_type,record_id,source_city_id,target_city_id,source_city_name,target_city_name,source_latitude,source_longitude,target_latitude,target_longitude,friendship_pair_count,edge_weight,sample_scope,source,verification_note
+Dataset metadata,META01,,,,,,,,,,,Approximately 10 million sampled friendship pairs aggregated by city pair,Paul Butler;Facebook Engineering,Public methodology description; not the private raw dataset
+City node,NODE_PENDING,,,,,,,,,,,,,Populate only cities explicitly visible in source map or released data; coordinates require cited gazetteer
+Relationship edge,EDGE_PENDING,,,,,,,,,,,,,Do not fabricate city-pair counts; source raw edge data is not publicly available in the cited article
