@@ -1,6 +1,8 @@
-# 时间轴图分析报告
+# 时间轴图｜案例分析报告目录
 
-- [001｜The history of CATS in China](./001-The-history-of-CATS-in-China-时间轴图案例分析报告.md)：历史阶段分章型、非比例时间线。
-- [002｜From Peter to Leo XIV](./002-From-Peter-to-Leo-XIV-时间轴图案例分析报告.md)：多行折返式人物任期时间轴。
+本目录按作品独立保存分析报告。报告区分已归档素材案例与基于公开来源建立的研究案例；后者的图片/Excel仍需手动归档后复核，不计为已完成素材案例。
 
-每份报告记录来源、画面结构、数据字段、统计图形、视觉编码、叙事框架和证据边界。
+- [001｜The history of CATS in China](./001-The-history-of-CATS-in-China-时间轴图案例分析报告.md) — 编年型主分类的时间轴辅助案例
+- [002｜From Peter to Leo XIV](./002-From-Peter-to-Leo-XIV-时间轴图案例分析报告.md) — 编年型主分类的时间轴辅助案例
+
+每个报告需包含原始来源、图形结构、数据字段、统计图形应用、视觉编码、信息框架、叙事路径和证据限制。
