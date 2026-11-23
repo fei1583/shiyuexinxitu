@@ -23,7 +23,7 @@
 | Illustrated Alphabet A–Z | 字母表型 | 文字型/列表型 | 图片与Excel已归档 |
 | Power Centers of the Fortune 500 | 混合型 | 地图、排名/比例符号 | 图片与Excel已归档 |
 | Ageing in Hong Kong | 混合型 | 地图、人口统计、时间序列 | 图片与Excel已归档 |
-| Extradition process | 流程图 | 法律程序分支 | Excel已归档，图片待补 |
+| Extradition process | 流程图 | 法律程序分支 | 图片与Excel已归档 |
 | 住宅平面图 | 结构图（暂定） | 建筑空间布局 | 图片与Excel已归档 |
 
 ## 归档规则
